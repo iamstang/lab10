@@ -1,1 +1,1 @@
-# Distance Converter lab for OOP
+# Coin Machine lab for OOP
